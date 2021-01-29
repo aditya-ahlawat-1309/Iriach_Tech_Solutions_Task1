@@ -1,3 +1,6 @@
+Below you can find the code for index.js of task 1 :
+
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
